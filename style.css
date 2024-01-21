@@ -3,3 +3,26 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+p #featured-property{
+width: 800px;
+text-align: center;
+}
+img{
+  align-items: center;
+}
+img #title{
+  font-size: smaller;
+  text-align: center;
+}
+div #details{
+  text
+  float: left;
+}
+div{
+  background-color: aquamarine;
+  text-align: center;
+  width: 25%;
+}
